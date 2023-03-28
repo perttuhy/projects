@@ -7,4 +7,4 @@ NOTE: Atm the game functions by choosing words to guess from words.txt in order.
 Project is made with maven (https://maven.apache.org/) that needs to be installed in order to run the project.
 When maven is installed project can be run if opened in vscode (propably in other IDEs aswell) and running the Wordle.java -file
 OR
-from the command line using javafx
+from the command line by command "mvn clean javafx:run"
